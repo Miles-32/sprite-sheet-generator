@@ -28,7 +28,7 @@ Sheets are saved to a `sheets` folder, which is created if it doesn't exist. Re-
 
 ### Do I need to edit anything?
 
-No. The defaults work with the layout above. Use parameters only if your folders are named differently or your frames aren't 512x512:
+Probably not: the defaults work with the layout above. Use parameters only if your folders are named differently or your frames aren't 512x512:
 
 | Parameter | Default | Meaning |
 |---|---|---|
