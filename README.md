@@ -15,7 +15,7 @@ frames/                     sheets/
 
 ## Usage
 
-1. Install [ImageMagick 7](https://imagemagick.org/script/download.php#windows), either with `winget install ImageMagick.ImageMagick` or the installer (tick "Add application directory to your system path"). Check it with `magick -version` in a new terminal.
+1. Install [ImageMagick 7](https://imagemagick.org/script/download.php#windows)
 2. Put your frames in a `frames` folder, with one sub-folder per animation.
 3. Save `build_sheets.ps1` next to the `frames` folder.
 4. Open a terminal in that folder and run:
