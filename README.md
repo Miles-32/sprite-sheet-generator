@@ -35,7 +35,3 @@ No. The defaults work with the layout above. Use parameters only if your folders
 | `-FramesRoot` | `.\frames` | Folder containing one sub-folder per animation |
 | `-OutRoot` | `.\sheets` | Where the sheets are saved |
 | `-Cell` | `512x512` | Size of one frame in pixels |
-
-```powershell
-powershell -ExecutionPolicy Bypass -File build_sheets.ps1 -FramesRoot "C:\Art\frames" -OutRoot "C:\Art\sheets" -Cell "256x256"
-```
